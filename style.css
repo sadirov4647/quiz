@@ -24,7 +24,7 @@ input[type=radio]{
     padding-top: 5px;
     position: relative;
 }
-.next-button{
+#next-button{
     border-radius: 6px;
     width: 150px;
     height: 40px;
@@ -34,4 +34,25 @@ input[type=radio]{
     position: relative;
     margin: auto;
     margin-top: 20px;
+}
+.quiz-message{
+    background-color: peachpuff;
+    border-radius: 6px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    padding: 2px;
+    color: red;
+}
+.choice-list{
+    color: blueviolet;
+}
+.result{
+    width: 30%;
+    height: auto;
+    border-radius: 6px;
+    background-color: linen;
+    margin: auto;
+    margin-bottom: 35px;
+    text-align: center;
 }
