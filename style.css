@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-size: 2em;
+    color: aqua;
+}
+input[type=radio]{
+    border: 0;
+    width: 20px;
+    height: 2em;
+}
+.quiz-container{
+    background-color: blueviolet;
+    border-radius: 8px;
+    width: 75%;
+    margin: auto;
+    margin-top: 190px;
+    padding-top: 5px;
+    position: relative;
+}
+.next-button{
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background-color: #cc0000;
+    color: #fff;
+    position: relative;
+    margin: auto;
+    margin-top: 20px;
+}
